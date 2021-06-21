@@ -1,1 +1,1 @@
-console.log("mult");
+console.log("multiply");
